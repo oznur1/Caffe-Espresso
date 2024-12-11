@@ -12,5 +12,6 @@ Cafe Menu:
 An elegantly arranged cafe menu is presented to the user with images and descriptions of the products.
 
 # Screenshot
-![CAFFEEESPRESSO-GoogleChrome2024-11-1521-42-01-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bd096bf2-5814-4552-9a8e-ae3e83083b1f)
 
+
+![CAFFEEESPRESSO-GoogleChrome2024-11-1521-42-01-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9fc6212d-aee0-4d82-8d06-b1be5bdebbdb)
